@@ -48,5 +48,6 @@ input[type="password"] {
 }
 
 /* pseudo-classes */
-.cadastro-form input: :nth-of-type(2) {
-   backgroud: #00f;
+.cadastro-form div:nth-of-type(2) {
+    background: #00f;
+}  
